@@ -269,9 +269,6 @@ svg {
   gap: var(--size-200);
 }
 
-.primary-footer form {
-}
-
 input:where([type='text'], [type='email'], ) {
   border-radius: 100vw;
   border: 0;
